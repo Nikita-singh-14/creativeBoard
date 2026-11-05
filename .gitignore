@@ -1,0 +1,20 @@
+# JavaScript / Next.js
+node_modules/
+.next/
+out/
+coverage/
+npm-debug.log*
+
+# .NET
+**/bin/
+**/obj/
+TestResults/
+
+# Local configuration and data
+web/.env.local
+api/*.db
+api/*.db-shm
+api/*.db-wal
+*.user
+*.suo
+.DS_Store
