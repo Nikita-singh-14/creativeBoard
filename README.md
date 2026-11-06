@@ -133,13 +133,4 @@ npm run build
 - Lists are currently unpaginated and there is no authentication or multi-user collaboration.
 - Follow-up work could add Playwright end-to-end coverage, image upload, pagination, drag-and-drop ordering, and CI.
 
-## Demo video plan (2–4 minutes)
 
-1. Start the API and web app; show the empty dashboard.
-2. Create a project after first showing the required-name validation, then edit it.
-3. Open its workspace, add an inspiration card with an intentionally broken image URL, and show the placeholder.
-4. Move the card between stages and filter the board.
-5. Return to the dashboard, search/filter, refresh, and show the saved data remains.
-6. Delete the idea and project, showing the cascade warning; finish with Swagger and the test commands.
-
-Demo recording link: _add the recording URL here._
